@@ -7,7 +7,7 @@ id_region,nombre_region,id_comuna,nombre_comuna,poblacion,casos_totales,tasa
 1,Tarapaca,,Pica,5958,-,0
 1,Tarapaca,,Pozo Almonte,17395,-,0
 2,Antofagasta,,Antofagasta,425725,29,6.8
-2,Antofagasta,,Calama,190336,-,1.6
+2,Antofagasta,,Calama,190336,3,1.6
 2,Antofagasta,,María Elena,6814,-,0
 2,Antofagasta,,Mejillones,14776,-,0
 2,Antofagasta,,Ollagüe,287,-,0
